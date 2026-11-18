@@ -1,0 +1,7 @@
+$ javac StringBenchmark.java
+$ java StringBenchmark
+
+fields=6 reps=1 plus=77046 ns builder=5689 ns buffer=4878 ns
+fields=50 reps=10000 plus=26988 ns builder=985 ns buffer=1169 ns
+fields=120 reps=30000 plus=26689 ns builder=1442 ns buffer=1893 ns
+Sample ticket: PNR:1234567890|Name:ArunKumar|Coach:S2|Berth:31|Fare:850|Route:Chennai to Bengaluru|
